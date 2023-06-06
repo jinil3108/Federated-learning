@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="mainpage" />
+          <option value="firstpage" />
+          <option value="secondpage_student" />
+          <option value="secondpage_employee" />
+          <option value="Register_student" />
+          <option value="GeneratorID" />
+          <option value="GeneratorMarksheet" />
+          <option value="GeneratorAttendance" />
+          <option value="GeneratorFees" />
+          <option value="MarksManager" />
+          <option value="HomePage" />
+          <option value="Login_Employee" />
+          <option value="Login_student" />
+          <option value="Login_Student" />
+          <option value="Menu_Employee" />
+          <option value="Menu_Student" />
+          <option value="FeesManager" />
+          <option value="Manage_Attendance" />
+          <option value="practice_numpy.color" />
+          <option value="practice_numpy.dark" />
+          <option value="practice_numpy.size" />
+          <option value="practice_numpy.X" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
